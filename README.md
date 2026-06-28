@@ -1,3 +1,6 @@
+# Havva KELEKLİ tarafından Kişisel Görev Yöneticisi geliştirilmiştir
+
+
 # 📋 Kişisel Görev Yöneticisi (Task Manager)
 
 Bu proje, kullanıcıların günlük görevlerini ekleyebileceği, tamamlanma durumlarını takip edebileceği ve kategorilere göre filtreleyebileceği full-stack bir web uygulamasıdır. 
